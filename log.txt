@@ -1,0 +1,25 @@
+commit 1ca600ecfba45279b79f8191892721cbfa7910cd
+Merge: 57d047e 51116b9
+Author: Akhil Chenna <akhilchenna@gmail.com>
+Date:   Thu Aug 27 16:08:50 2020 +0400
+
+    Merge branch 'hacker' into master
+    merge hacker to master
+
+commit 51116b91e7161b52e327708bc1064e12a08ffe4b
+Author: Akhil Chenna <akhilchenna@gmail.com>
+Date:   Tue Aug 25 18:01:18 2020 +0400
+
+    First commit in hacker mode
+
+commit 5dd2a2f0949983ebaeb4a39ba18b442808af4dcd
+Author: Akhil Chenna <akhilchenna@gmail.com>
+Date:   Tue Aug 25 15:08:21 2020 +0400
+
+    Started hacker mode
+
+commit 57d047e52183b0c2ed7a60c2ae76544856e614c2
+Author: Akhil Chenna <akhilchenna@gmail.com>
+Date:   Tue Aug 25 14:59:10 2020 +0400
+
+    Basic mode complete
